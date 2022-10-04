@@ -29,7 +29,7 @@ public class App extends BaseAppNavigator {
         super.init();
         gerenciador = new GerenciadorLoja();
         //gerenciador.geraFakes();
-        gerenciador.carregar();
+        //gerenciador.carregar();
     }
 
     @Override
